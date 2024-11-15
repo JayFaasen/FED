@@ -38,6 +38,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Je opdracht:
   link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
   https://scarletviolet.pokemon.com/nl-nl/
+  Ik ga de home pagina namaken, en de pokemon pagina (overview van alle pagina's), ook werk ik de detail pagina van 1 pokemon uit ( omdat het anders erg weinig en simpel is. 
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   hier de naam van de pagina  
@@ -58,6 +59,9 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
+  De screenreader lees alles opzich goed, veel buttons/llinks worden voorgelezen met het woord koppeling ervoor. 
+  sommige <P> worden niet voorgelezen ( kan ook misschien zijn omdat ik niet precies weet hoe het werkt)
+  
 
 </details>
 
